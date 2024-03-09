@@ -342,7 +342,7 @@ int main(int argc, char **argv) {
   if (argc == 3) {
     LISTA_DAS_LINHAS *listaDeLinhas = CriarListaDasLinhas();
 
-    if (strcmp(argv[2], "arvore") == 0) {
+    if (strcmp(argv[2], "tree") == 0) {
       printf("Tipo de indice: \'%s\'\n", argv[2]);
       printf("Arquivo texto: \'%s\'\n", argv[1]);
 
@@ -490,7 +490,7 @@ int main(int argc, char **argv) {
         }
       }
 
-    } else if (strcmp(argv[2], "lista") == 0) {
+    } else if (strcmp(argv[2], "list") == 0) {
       printf("Tipo de indice: \'%s\'\n", argv[2]);
       printf("Arquivo texto: \'%s\'\n", argv[1]);
 
