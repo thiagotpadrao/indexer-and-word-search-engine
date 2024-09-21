@@ -2,7 +2,7 @@
 
 > Status: Finished
 
- ### This work originated from a college project. It is a C code where it is possible to index a text file (.txt) into a data structure using either a binary tree or a linked list. It is also possible to search for words contained (or not) in the file after indexing, displaying the time in milliseconds for each operation performed in the program.
+This work originated from a college project. It is a C code where it is possible to index a text file (.txt) into a data structure using either a binary tree or a linked list. It is also possible to search for words contained (or not) in the file after indexing, displaying the time in milliseconds for each operation performed in the program.
 
 ## How to run the application:
 
