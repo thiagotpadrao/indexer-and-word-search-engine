@@ -37,17 +37,12 @@ Run the command: ./<FileName> "<file.txt>" <DesiredIndex>
 Note: <FileName> is the name of the compiled file (chosen earlier), <file.txt> is the chosen txt file. And <DesiredIndex> corresponds to: "tree" or "list". Example: ./test text.txt tree
 
 ## How to use the application:
-After executing, the process will store all the words from the txt file passed as a parameter and index them according to the index also passed as a parameter: tree (which corresponds to a binary tree) or list (which corresponds to a linked list).
+After executing, the process will store all the words from the txt file passed as a parameter and index them according to the index also passed as a parameter: arvore (which corresponds to a binary tree) or lista (which corresponds to a linked list).
 
-After that, to search for a word in the file, the user must type the word "search" followed by the desired word.
+After that, to search for a word in the file, the user must type the word "busca" followed by the desired word.
 
-To end the execution, just type "end".
+To end the execution, just type "fim".
 
-If another word is typed, the message "Invalid option!" will appear on the screen, and the user must provide an input again.
+If another word is typed, the message "Opcao Invalida!" will appear on the screen, and the user must provide an input again.
 
 Additionally, the process also calculates and prints the time of indexing and searches (in milliseconds).
-
-
-
-
-
